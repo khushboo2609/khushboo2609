@@ -178,14 +178,6 @@ Katihar Engineering College
 
 ---
 
-## 📊 GitHub Statistics
-
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=khushboo2609&show_icons=true&theme=default&hide_border=true&include_all_commits=true)
-
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=khushboo2609&layout=compact&theme=default&hide_border=true&langs_count=8)
-
----
-
 ## 🎯 Career Interests
 
 - AI Engineer
